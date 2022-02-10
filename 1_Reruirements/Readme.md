@@ -19,8 +19,7 @@ On the app Store, we can find the number of apps that can help :
 * To compute the resistor values using the colour codes.
 However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
 
-# SWOT ANALYSIS
-
+# SWOT analysis
 ## Strengths
 * Easy to use.
 * Faster compilation time.
@@ -48,3 +47,13 @@ This project has no end date because it can be utilised by generations for ages 
 Schools, colleges, engineering institutes, electronic projects, labs, industries.
 ## How
 Because it is an input-output application, the use of this project is quite straightforward. The person just types in whatever data they requires; for ex, if the person needs the current in a certain branch of a circuit, the circuit information must be provided, and the outcome will be dependent on all current calculations.
+
+# Detail requirements
+
+# High Level Requirements:
+
+* 1. Based on the colour code input, the user is allowed to determine the values of the resistors.
+* 2. Based on the input, the user will be able to determine the type of battery, current output, voltage output, and power rating of the battery.
+* 3. The user will be able to compute the circuit's series resistance, as well as the voltage and current flowing through the circuit and via every element.
+* 4. The user will be able to determine the circuit's current, voltage, and power.
+* 5. Depending on the input battery & power ratings, the user is allowed to determine the circuit lifetime in days. 
