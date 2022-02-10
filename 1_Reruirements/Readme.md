@@ -37,6 +37,9 @@ However, this system has combined all of the functions into a single programme, 
 * Circuit simulation softwares.
 * Competitor applications.
 
+## Detail requirements
+
+
 
 
 # 4W's and 1'H
