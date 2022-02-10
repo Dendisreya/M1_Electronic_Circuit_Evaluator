@@ -17,4 +17,16 @@ This programme is beneficial to anyone who works with hardware circuits boards. 
 On the app Store, we can find the number of apps that can help :
 * To determine the current in a circuit and evaluate it using voltage and current characteristics.
 * To compute the resistor values using the colour codes.
-* However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
+However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
+
+# 4W's and 1'H
+# Who
+ Electronic engineers, college students and professors who are using electronic circuits.
+# What
+ Many students have difficulty with power calculations , connecting circuits in parallel makes  calculations get more difficult when the circuit includes multiple elements in series or parallel.
+# When
+This project has no end date because it can be utilised by generations for ages until the planet requires electronic technology. All device simulations and resistor programming information will be collected in this project.
+# Where
+Schools, colleges, engineering institutes, electronic projects, labs, industries.
+# How
+Because it is an input-output application, the use of this project is quite straightforward. The person just types in whatever data they requires; for ex, if the person needs the current in a certain branch of a circuit, the circuit information must be provided, and the outcome will be dependent on all current calculations.
