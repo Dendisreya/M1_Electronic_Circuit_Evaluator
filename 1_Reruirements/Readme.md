@@ -8,16 +8,23 @@
 * So, in order to minimize calculating time and make the procedure more automated and error-free, the following system was introduced.
 This programme is beneficial to anyone who works with hardware circuits boards. It aids in the determination of resistor values based on colour codes, the determination of system current dependent on series or parallel construction, and the calculation of the circuit's total power.
 
-# Identifying Features
+# Research
+On the app Store, we can find the number of apps that can help :
+1. To determine the current in a circuit and evaluate it using voltage and current characteristics.
+2. To compute the resistor values using the colour codes.
+* However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
 * For beginners, this is quite helpful.
 * People who use fundamental electronic components will find it simple and accurate to calculate.
 * Power calculations are crucial for electronic engineers because their designs are heavily reliant on them.
 
-# Research
-On the app Store, we can find the number of apps that can help :
-* To determine the current in a circuit and evaluate it using voltage and current characteristics.
-* To compute the resistor values using the colour codes.
-However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
+
+# Defining Our System
+The following actions are possible with the Electronic Circuit Evaluator.
+1. Values of resistors based on colour codes
+2. Information about battery power consumption based on battery type.
+3. Resistance, current, and voltage across different components in a series circuit analysis.
+4. Resistance, current, and voltage across separate components in a parallel circuit analysis.
+5. Analysis of the circuit's power and longevity.
 
 # SWOT analysis
 ## Strengths
