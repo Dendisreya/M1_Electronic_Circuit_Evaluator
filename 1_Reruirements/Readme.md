@@ -57,3 +57,11 @@ Because it is an input-output application, the use of this project is quite stra
 * 3. The user will be able to compute the circuit's series resistance, as well as the voltage and current flowing through the circuit and via every element.
 * 4. The user will be able to determine the circuit's current, voltage, and power.
 * 5. Depending on the input battery & power ratings, the user is allowed to determine the circuit lifetime in days. 
+
+# Low level Requirements:
+* 1. The readings of the resistor will be presented depending on whether it is a 4 band or a 5 band resistor.
+* 2. For a 4 band, the first three colour bands will be used, and for a 5 band, the first four bands will be used.
+* 3. The total series resistance will be calculated based on the user's input. If the user is unsure of the resistor values, an intermediary procedure will offer them by inquiring for the colour codes.
+* 4. The total parallel resistance will be calculated based on the user's input. If the user is unsure of the resistor values, an intermediary procedure will offer them by inquiring for the colour codes.
+* 5. The total voltage or current for the circuit would be computed &  the output power of circuit would be provided based on resistor value inputs, seriesor paralell or mixed choices by the user.
+* 6. The battery performance of the input signal will be calculated based on previous data &  battery type & current pull of circuit provided by the user.
