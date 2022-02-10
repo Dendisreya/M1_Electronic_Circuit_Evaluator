@@ -8,8 +8,13 @@
 * So, in order to minimize calculating time and make the procedure more automated and error-free, the following system was introduced.
 This programme is beneficial to anyone who works with hardware circuits boards. It aids in the determination of resistor values based on colour codes, the determination of system current dependent on series or parallel construction, and the calculation of the circuit's total power.
 
+# Identifying Features
+* For beginners, this is quite helpful.
+* People who use fundamental electronic components will find it simple and accurate to calculate.
+* Power calculations are crucial for electronic engineers because their designs are heavily reliant on them.
+
 # Research
-* On the Play Store, you can find a number of apps that can help you : 
+On the app Store, we can find the number of apps that can help :
 * To determine the current in a circuit and evaluate it using voltage and current characteristics.
-* To compute the resistor values Using the colour codes.
+* To compute the resistor values using the colour codes.
 * However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
