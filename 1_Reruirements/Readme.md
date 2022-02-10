@@ -21,19 +21,19 @@ However, this system has combined all of the functions into a single programme, 
 
 # SWOT ANALYSIS
 
-# Strengths
+## Strengths
 * Easy to use.
 * Faster compilation time.
 * More information about circuits.
 * Better than previous systems. 
-# Weaknesses
+## Weaknesses
 * No simulation of circuits.
 * High input values.
-# Opportunities
+## Opportunities
 * Multi level architecture and circuit implementation.
 * New skills and technologies.
 * Emerging Technology.
-# Threats
+## Threats
 * Circuit simulation softwares.
 * Competitor applications.
 
