@@ -26,7 +26,7 @@ The following actions are possible with the Electronic Circuit Evaluator.
 4. Resistance, current, and voltage across separate components in a parallel circuit analysis.
 5. Analysis of the circuit's power and longevity.
 
-# SWOT analysis
+# SWOT Analysis
 ## Strengths
 * Easy to use.
 * Faster compilation time.
