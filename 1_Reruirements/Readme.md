@@ -19,6 +19,26 @@ On the app Store, we can find the number of apps that can help :
 * To compute the resistor values using the colour codes.
 However, this system has combined all of the functions into a single programme, providing you with all of the basic circuit analysis requirements in one common platform.
 
+# SWOT ANALYSIS
+
+# Strengths
+* Easy to use.
+* Faster compilation time.
+* More information about circuits.
+* Better than previous systems. 
+# Weaknesses
+* No simulation of circuits.
+* High input values.
+# Opportunities
+* Multi level architecture and circuit implementation.
+* New skills and technologies.
+* Emerging Technology.
+# Threats
+* Circuit simulation softwares.
+* Competitor applications.
+
+
+
 # 4W's and 1'H
 # Who
  Electronic engineers, college students and professors who are using electronic circuits.
