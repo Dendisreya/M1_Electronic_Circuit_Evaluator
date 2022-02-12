@@ -1,3 +1,4 @@
+# Introduction
 * Electronic circuit evaluator is an application that can assist   engineers in analysing circuit difficulties.
 * It used to be a very time-consuming operation for engineers, particularly when working with hardware circuits, to regulate the resistance and voltage across the circuit and maintain the overall resistance and current in balance.
 * The overall resistance in the circuit, impedance in RLC, and power computations for the circuit to estimate how long it will work in real world were the key jobs for any electronics technician.
@@ -67,3 +68,7 @@ Because it is an input-output application, the use of this project is quite stra
 4. The total parallel resistance will be calculated based on the user's input. If the user is unsure of the resistor values, an intermediary procedure will offer them by inquiring for the colour codes.
 5. The total voltage or current for the circuit would be computed &  the output power of circuit would be provided based on resistor value inputs, seriesor paralell or mixed choices by the user.
 6. The battery performance of the input signal will be calculated based on previous data &  battery type & current pull of circuit provided by the user.
+
+# Result
+* Analysed resistor values by color coding
+* Analysed battery life 
