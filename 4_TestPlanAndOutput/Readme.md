@@ -21,8 +21,3 @@
 |  L_01       | H_01, H_02, H_03|Tested on functions which accept two matrices as input|  matrix1, matrix2, n |SUCCESS|SUCCESS |Technical |
 |  L_02       | H_04, H_05, H_06|Tested on functions which accept single matrix as input|  matrix1, n |SUCCESS|SUCCESS |Technical |
 |  L_03       | H_07, H_08 |Tested on function which returns an integer value|  3  |-1|-1|Technical |
-[11:00 pm, 11/02/2022] +91 98661 19558: phone struck iendheeee !!!!
-[11:03 pm, 11/02/2022] +91 98661 19558: W8
-[11:03 pm, 11/02/2022] Sreya Reddy: Ha
-[11:03 pm, 11/02/2022] Sreya Reddy: Dinlo mana text rayala
-[11:04 pm, 11/02/2022] +91 98661 19558: haaa
