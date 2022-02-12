@@ -71,4 +71,4 @@ Because it is an input-output application, the use of this project is quite stra
 
 # Result
 * Analysed resistor values by color coding
-* Analysed battery life 
+* Analysed battery life by voltage, current, no of days, no of times.
