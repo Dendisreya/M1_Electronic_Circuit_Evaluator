@@ -8,6 +8,7 @@
  * @copyright Copyright (c) 2022
  * 
  */
+#include"resistor.h"
 #include<stdio.h>
 #include<string.h>
 #define nItems (sizeof item_list/sizeof *item_list)
