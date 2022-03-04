@@ -1,10 +1,26 @@
-#include <stdio.h>
-#include <string.h>
+/**
+ * @file resistor.c
+ * @author sreya dendi
+ * @brief Electronic circuit evaluator is an application
+ * @version 0.1
+ * @date 2022-03-04
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+#include<stdio.h>
+#include<string.h>
 #define nItems (sizeof item_list/sizeof *item_list)
-//status
+/**
+ * @brief status
+ * 
+ */
 char status = 'S'; 
 enum {minimum = 3, maximum = 10};
-// declaring resister code bands
+/**
+ * @brief  declaring resister code bands
+ * 
+ */
 enum band_colors {B, BR, R, O, Y, G,Bl, V, GR, W, UN};
 struct items
  {
@@ -44,7 +60,7 @@ int main(void)
     for (j = 0; j < minimum; ++j)
     {
         printf("Color_Band %d => ", j + 1); 
-        scanf(" %s", &input[j]);  
+        scanf("%9s",input[j]);  
         colour_value[j] = srchItems(input[j]); 
     }       
     for (j = 0; j < minimum; ++j)
@@ -153,5 +169,3 @@ char *sepnumber (char *s, long val)
     s[idx] = *p;
     return s;
 }
-
-
